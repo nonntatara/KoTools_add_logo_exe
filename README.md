@@ -1,0 +1,2 @@
+# KoTools_add_logo_exe
+KoTools_add_logo_exe
